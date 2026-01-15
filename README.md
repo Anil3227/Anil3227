@@ -1,10 +1,10 @@
 ## 🌟 About Me
 
-I’m a graduate-level researcher with a strong interest in theoretical cosmology and fundamental physics, focused on developing analytical and computational tools to understand the universe’s evolution — from inflationary dynamics to late-time dark energy behavior.
+Graduate-level researcher in theoretical cosmology, working on analytical and computational approaches to inflation and dark energy. Interested in scientific computing, Python-based data analysis, and collaborative development of open-source research tools.
+
 
 - 🎓 Field of study: **Cosmology, Early Universe & Dark Energy**
 - 💻 Interests: Scientific computing, Python, Jupyter, Data analysis
-- 🤝 Always open to collaborations on open-source scientific tools!
 
 
 ## 🤝 Let's Connect
